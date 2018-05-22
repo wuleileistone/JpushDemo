@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JpushDemo.iml" filepath="$PROJECT_DIR$/JpushDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jpushdemotext/jpushdemotext.iml" filepath="$PROJECT_DIR$/jpushdemotext/jpushdemotext.iml" />
+      <module fileurl="file://$PROJECT_DIR$/newtextdemo/newtextdemo.iml" filepath="$PROJECT_DIR$/newtextdemo/newtextdemo.iml" />
+    </modules>
+  </component>
+</project>
